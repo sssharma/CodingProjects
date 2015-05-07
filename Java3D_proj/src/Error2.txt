@@ -1,0 +1,629 @@
+[parsing started RegularFileObject[comboPanel.java]]
+[parsing completed 27ms]
+[parsing started RegularFileObject[DefaultMaterials.java]]
+[parsing completed 9ms]
+[parsing started RegularFileObject[DisplayDialog.java]]
+[parsing completed 9ms]
+[parsing started RegularFileObject[DisplayMain.java]]
+[parsing completed 9ms]
+[parsing started RegularFileObject[groupPanel.java]]
+[parsing completed 9ms]
+[parsing started RegularFileObject[MyObjectFile.java]]
+[parsing completed 0ms]
+[parsing started RegularFileObject[ObjectFile.java]]
+[parsing completed 0ms]
+[parsing started RegularFileObject[ObjectFileMaterials.java]]
+[parsing completed 9ms]
+[parsing started RegularFileObject[ObjectFileParser.java]]
+[parsing completed 0ms]
+[parsing started RegularFileObject[RgbFile.java]]
+[parsing completed 0ms]
+[parsing started RegularFileObject[scalePanel.java]]
+[parsing completed 9ms]
+[parsing started RegularFileObject[simpleDialog.java]]
+[parsing completed 0ms]
+[search path for source files: .]
+[search path for class files: c:\java\jdk1.7.0_02\jre\lib\resources.jar,c:\java\jdk1.7.0_02\jre\lib\rt.jar,c:\java\jdk1.7.0_02\jre\lib\sunrsasign.jar,c:\java\jdk1.7.0_02\jre\lib\jsse.jar,c:\java\jdk1.7.0_02\jre\lib\jce.jar,c:\java\jdk1.7.0_02\jre\lib\charsets.jar,c:\java\jdk1.7.0_02\jre\classes,c:\java\jdk1.7.0_02\jre\lib\ext\dnsns.jar,c:\java\jdk1.7.0_02\jre\lib\ext\localedata.jar,c:\java\jdk1.7.0_02\jre\lib\ext\sunec.jar,c:\java\jdk1.7.0_02\jre\lib\ext\sunjce_provider.jar,c:\java\jdk1.7.0_02\jre\lib\ext\sunmscapi.jar,c:\java\jdk1.7.0_02\jre\lib\ext\sunpkcs11.jar,c:\java\jdk1.7.0_02\jre\lib\ext\zipfs.jar,.]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/JPanel.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/accessibility/Accessible.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/Object.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/JComponent.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/Serializable.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/TransferHandler.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/TransferHandler$HasGetTransferHandler.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/Container.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/Component.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/image/ImageObserver.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/MenuContainer.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/event/ActionListener.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/util/EventListener.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/JComboBox.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/JLabel.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/String.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/util/Vector.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/event/ActionEvent.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/Dimension.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/JDialog.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/WindowConstants.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/RootPaneContainer.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/Dialog.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/Window.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/net/URL.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/net/URLConnection.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/util/ArrayList.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/util/Hashtable.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/util/Random.class)]]
+DisplayMain.java:15: error: package javax.media.j3d does not exist
+import javax.media.j3d.*;
+^
+DisplayMain.java:16: error: package javax.vecmath does not exist
+import javax.vecmath.*;
+^
+DisplayMain.java:21: error: package com.sun.j3d.loaders does not exist
+import com.sun.j3d.loaders.Scene;
+                          ^
+DisplayMain.java:22: error: package com.sun.j3d.utils.behaviors.mouse does not exist
+import com.sun.j3d.utils.behaviors.mouse.MouseRotate;
+                                        ^
+DisplayMain.java:23: error: package com.sun.j3d.utils.behaviors.mouse does not exist
+import com.sun.j3d.utils.behaviors.mouse.MouseTranslate;
+                                        ^
+DisplayMain.java:24: error: package com.sun.j3d.utils.behaviors.mouse does not exist
+import com.sun.j3d.utils.behaviors.mouse.MouseZoom;
+                                        ^
+DisplayMain.java:25: error: package com.sun.j3d.utils.picking does not exist
+import com.sun.j3d.utils.picking.PickCanvas;
+                                ^
+DisplayMain.java:26: error: package com.sun.j3d.utils.picking does not exist
+import com.sun.j3d.utils.picking.PickResult;
+                                ^
+DisplayMain.java:27: error: package com.sun.j3d.utils.picking does not exist
+import com.sun.j3d.utils.picking.PickTool;
+                                ^
+DisplayMain.java:28: error: package com.sun.j3d.utils.universe does not exist
+import com.sun.j3d.utils.universe.SimpleUniverse;
+                                 ^
+DisplayMain.java:29: error: package com.sun.j3d.utils.universe does not exist
+import com.sun.j3d.utils.universe.Viewer;
+                                 ^
+DisplayMain.java:30: error: package com.sun.j3d.utils.universe does not exist
+import com.sun.j3d.utils.universe.ViewingPlatform;
+                                 ^
+DisplayMain.java:31: error: package com.sun.j3d.utils.geometry does not exist
+import com.sun.j3d.utils.geometry.*;
+^
+DisplayMain.java:32: error: package com.sun.j3d.utils.image does not exist
+import com.sun.j3d.utils.image.TextureLoader;
+                              ^
+DisplayMain.java:33: error: package com.sun.j3d.utils.geometry does not exist
+import com.sun.j3d.utils.geometry.Box;
+                                 ^
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/JApplet.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/applet/Applet.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/Panel.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/event/MouseListener.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/event/KeyListener.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/Cursor.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/Toolkit.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/JButton.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/GridBagConstraints.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/GridBagLayout.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/JTextField.class)]]
+DisplayMain.java:38: error: cannot find symbol
+	Canvas3D		canvas;
+	^
+  symbol:   class Canvas3D
+  location: class DisplayMain
+DisplayMain.java:39: error: cannot find symbol
+	Scene		        scene;
+	^
+  symbol:   class Scene
+  location: class DisplayMain
+DisplayMain.java:40: error: cannot find symbol
+	SimpleUniverse	        universe;
+	^
+  symbol:   class SimpleUniverse
+  location: class DisplayMain
+DisplayMain.java:41: error: cannot find symbol
+	BranchGroup		root ;
+	^
+  symbol:   class BranchGroup
+  location: class DisplayMain
+DisplayMain.java:42: error: cannot find symbol
+	BranchGroup		sceneRoot;
+	^
+  symbol:   class BranchGroup
+  location: class DisplayMain
+DisplayMain.java:43: error: cannot find symbol
+	TransformGroup		sceneGroup;
+	^
+  symbol:   class TransformGroup
+  location: class DisplayMain
+DisplayMain.java:44: error: cannot find symbol
+	Transform3D		origXform;
+	^
+  symbol:   class Transform3D
+  location: class DisplayMain
+DisplayMain.java:46: error: cannot find symbol
+	DirectionalLight	headLight;
+	^
+  symbol:   class DirectionalLight
+  location: class DisplayMain
+DisplayMain.java:47: error: cannot find symbol
+	SpotLight	        spotLight;
+	^
+  symbol:   class SpotLight
+  location: class DisplayMain
+DisplayMain.java:48: error: cannot find symbol
+	AmbientLight	        ambLight;
+	^
+  symbol:   class AmbientLight
+  location: class DisplayMain
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/Timer.class)]]
+DisplayMain.java:53: error: cannot find symbol
+	Vector3f                currPos = new Vector3f();
+	^
+  symbol:   class Vector3f
+  location: class DisplayMain
+DisplayMain.java:55: error: cannot find symbol
+        Appearance              dotApp;
+        ^
+  symbol:   class Appearance
+  location: class DisplayMain
+DisplayMain.java:56: error: cannot find symbol
+	Point3d                 center;
+	^
+  symbol:   class Point3d
+  location: class DisplayMain
+DisplayMain.java:57: error: cannot find symbol
+	TransformGroup	        vpTransGroup;
+	^
+  symbol:   class TransformGroup
+  location: class DisplayMain
+DisplayMain.java:58: error: cannot find symbol
+	Switch			backgroundSW;
+	^
+  symbol:   class Switch
+  location: class DisplayMain
+DisplayMain.java:60: error: cannot find symbol
+	TransformGroup          dotGroup;
+	^
+  symbol:   class TransformGroup
+  location: class DisplayMain
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/event/MouseEvent.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/event/KeyEvent.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/JRadioButton.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/JCheckBox.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/ButtonGroup.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/JSlider.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/text/NumberFormat.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/event/FocusEvent.class)]]
+DisplayMain.java:443: error: cannot find symbol
+      Switch			sw;
+      ^
+  symbol:   class Switch
+  location: class DisplayMain.ObjectDisplay
+DisplayMain.java:444: error: cannot find symbol
+      BranchGroup		topGroup;
+      ^
+  symbol:   class BranchGroup
+  location: class DisplayMain.ObjectDisplay
+DisplayMain.java:445: error: cannot find symbol
+      TransformGroup		objGroup;
+      ^
+  symbol:   class TransformGroup
+  location: class DisplayMain.ObjectDisplay
+DisplayMain.java:446: error: cannot find symbol
+      Transform3D		origXform;
+      ^
+  symbol:   class Transform3D
+  location: class DisplayMain.ObjectDisplay
+DisplayMain.java:447: error: cannot find symbol
+      Transform3D		objXform;
+      ^
+  symbol:   class Transform3D
+  location: class DisplayMain.ObjectDisplay
+DisplayMain.java:448: error: cannot find symbol
+      Scene		        objScene;			//loaded obj 
+      ^
+  symbol:   class Scene
+  location: class DisplayMain.ObjectDisplay
+DisplayMain.java:532: error: cannot find symbol
+      public Scene loadObject(String filename) {
+             ^
+  symbol:   class Scene
+  location: class DisplayMain.ObjectDisplay
+MyObjectFile.java:7: error: package com.sun.j3d.loaders does not exist
+import com.sun.j3d.loaders.*;
+^
+MyObjectFile.java:8: error: package com.sun.j3d.utils.geometry does not exist
+import com.sun.j3d.utils.geometry.*;
+^
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/net/MalformedURLException.class)]]
+MyObjectFile.java:14: error: package javax.media.j3d does not exist
+import javax.media.j3d.*;
+^
+MyObjectFile.java:15: error: package com.sun.j3d.utils.image does not exist
+import com.sun.j3d.utils.image.TextureLoader;
+                              ^
+MyObjectFile.java:16: error: package javax.vecmath does not exist
+import javax.vecmath.*;
+^
+MyObjectFile.java:22: error: cannot find symbol
+    implements Loader
+               ^
+  symbol: class Loader
+MyObjectFile.java:24: error: cannot find symbol
+    Appearance dotApp;
+    ^
+  symbol:   class Appearance
+  location: class MyObjectFile
+ObjectFileParser.java:6: error: package com.sun.j3d.loaders does not exist
+import com.sun.j3d.loaders.ParsingErrorException;
+                          ^
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/StreamTokenizer.class)]]
+MyObjectFile.java:27: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class MyObjectFile
+MyObjectFile.java:41: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class MyObjectFile
+MyObjectFile.java:55: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class MyObjectFile
+MyObjectFile.java:67: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class MyObjectFile
+MyObjectFile.java:137: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class MyObjectFile
+MyObjectFile.java:146: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class MyObjectFile
+MyObjectFile.java:162: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class MyObjectFile
+MyObjectFile.java:178: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class MyObjectFile
+MyObjectFile.java:229: error: cannot find symbol
+    public void setAppearance(Appearance dotApp) {
+                              ^
+  symbol:   class Appearance
+  location: class MyObjectFile
+MyObjectFile.java:264: error: cannot find symbol
+    public Scene load(String s)
+           ^
+  symbol:   class Scene
+  location: class MyObjectFile
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/FileNotFoundException.class)]]
+MyObjectFile.java:265: error: cannot find symbol
+        throws FileNotFoundException, IncorrectFormatException, ParsingErrorException
+                                      ^
+  symbol:   class IncorrectFormatException
+  location: class MyObjectFile
+MyObjectFile.java:265: error: cannot find symbol
+        throws FileNotFoundException, IncorrectFormatException, ParsingErrorException
+                                                                ^
+  symbol:   class ParsingErrorException
+  location: class MyObjectFile
+MyObjectFile.java:291: error: cannot find symbol
+    public Scene load(URL url)
+           ^
+  symbol:   class Scene
+  location: class MyObjectFile
+MyObjectFile.java:292: error: cannot find symbol
+        throws FileNotFoundException, IncorrectFormatException, ParsingErrorException
+                                      ^
+  symbol:   class IncorrectFormatException
+  location: class MyObjectFile
+MyObjectFile.java:292: error: cannot find symbol
+        throws FileNotFoundException, IncorrectFormatException, ParsingErrorException
+                                                                ^
+  symbol:   class ParsingErrorException
+  location: class MyObjectFile
+MyObjectFile.java:309: error: cannot find symbol
+    private Point3f[] getLimits()
+            ^
+  symbol:   class Point3f
+  location: class MyObjectFile
+MyObjectFile.java:366: error: cannot find symbol
+    private Point3f[] objectToPoint3Array(ArrayList arraylist)
+            ^
+  symbol:   class Point3f
+  location: class MyObjectFile
+MyObjectFile.java:375: error: cannot find symbol
+    private TexCoord2f[] objectToTexCoord2Array(ArrayList arraylist)
+            ^
+  symbol:   class TexCoord2f
+  location: class MyObjectFile
+MyObjectFile.java:384: error: cannot find symbol
+    private Vector3f[] objectToVectorArray(ArrayList arraylist)
+            ^
+  symbol:   class Vector3f
+  location: class MyObjectFile
+MyObjectFile.java:596: error: cannot find symbol
+    private SceneBase makeScene()
+            ^
+  symbol:   class SceneBase
+  location: class MyObjectFile
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/Reader.class)]]
+MyObjectFile.java:702: error: cannot find symbol
+    public Scene load(Reader reader)
+           ^
+  symbol:   class Scene
+  location: class MyObjectFile
+MyObjectFile.java:703: error: cannot find symbol
+        throws FileNotFoundException, IncorrectFormatException, ParsingErrorException
+                                      ^
+  symbol:   class IncorrectFormatException
+  location: class MyObjectFile
+MyObjectFile.java:703: error: cannot find symbol
+        throws FileNotFoundException, IncorrectFormatException, ParsingErrorException
+                                                                ^
+  symbol:   class ParsingErrorException
+  location: class MyObjectFile
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/util/HashMap.class)]]
+MyObjectFile.java:790: error: cannot find symbol
+    private Point3f coordArray[];
+            ^
+  symbol:   class Point3f
+  location: class MyObjectFile
+MyObjectFile.java:791: error: cannot find symbol
+    private Vector3f normArray[];
+            ^
+  symbol:   class Vector3f
+  location: class MyObjectFile
+MyObjectFile.java:792: error: cannot find symbol
+    private TexCoord2f texArray[];
+            ^
+  symbol:   class TexCoord2f
+  location: class MyObjectFile
+ObjectFileMaterials.java:7: error: package com.sun.j3d.loaders does not exist
+import com.sun.j3d.loaders.ParsingErrorException;
+                          ^
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/Image.class)]]
+ObjectFileMaterials.java:14: error: package javax.media.j3d does not exist
+import javax.media.j3d.*;
+^
+ObjectFileMaterials.java:15: error: package javax.vecmath does not exist
+import javax.vecmath.Color3f;
+                    ^
+ObjectFileMaterials.java:16: error: package com.sun.j3d.utils.image does not exist
+import com.sun.j3d.utils.image.TextureLoader;
+                              ^
+ObjectFileParser.java:29: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class ObjectFileParser
+ObjectFileParser.java:85: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class ObjectFileParser
+ObjectFileParser.java:92: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class ObjectFileParser
+ObjectFileMaterials.java:53: error: cannot find symbol
+    void assignMaterial(String s, Shape3D shape3d)
+                                  ^
+  symbol:   class Shape3D
+  location: class ObjectFileMaterials
+ObjectFileMaterials.java:94: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class ObjectFileMaterials
+ObjectFileMaterials.java:108: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class ObjectFileMaterials
+ObjectFileMaterials.java:122: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class ObjectFileMaterials
+ObjectFileMaterials.java:136: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class ObjectFileMaterials
+ObjectFileMaterials.java:150: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class ObjectFileMaterials
+ObjectFileMaterials.java:158: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class ObjectFileMaterials
+ObjectFileMaterials.java:168: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class ObjectFileMaterials
+ObjectFileMaterials.java:247: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class ObjectFileMaterials
+ObjectFileMaterials.java:302: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class ObjectFileMaterials
+ObjectFileMaterials.java:323: error: cannot find symbol
+        throws ParsingErrorException
+               ^
+  symbol:   class ParsingErrorException
+  location: class ObjectFileMaterials
+ObjectFileMaterials.java:36: error: cannot find symbol
+        public Color3f Ka;
+               ^
+  symbol:   class Color3f
+  location: class ObjectFileMaterials.ObjectFileMaterial
+ObjectFileMaterials.java:37: error: cannot find symbol
+        public Color3f Kd;
+               ^
+  symbol:   class Color3f
+  location: class ObjectFileMaterials.ObjectFileMaterial
+ObjectFileMaterials.java:38: error: cannot find symbol
+        public Color3f Ks;
+               ^
+  symbol:   class Color3f
+  location: class ObjectFileMaterials.ObjectFileMaterial
+ObjectFileMaterials.java:41: error: cannot find symbol
+        public Texture2D t;
+               ^
+  symbol:   class Texture2D
+  location: class ObjectFileMaterials.ObjectFileMaterial
+ObjectFile.java:7: error: package com.sun.j3d.loaders does not exist
+import com.sun.j3d.loaders.*;
+^
+ObjectFile.java:8: error: package com.sun.j3d.utils.geometry does not exist
+import com.sun.j3d.utils.geometry.*;
+^
+ObjectFile.java:14: error: package javax.media.j3d does not exist
+import javax.media.j3d.*;
+^
+ObjectFile.java:15: error: package com.sun.j3d.utils.image does not exist
+import com.sun.j3d.utils.image.TextureLoader;
+                              ^
+ObjectFile.java:16: error: package javax.vecmath does not exist
+import javax.vecmath.*;
+^
+ObjectFile.java:22: error: cannot find symbol
+    implements Loader
+               ^
+  symbol: class Loader
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/color/ColorSpace.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/BufferedInputStream.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/FilterInputStream.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/InputStream.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/Closeable.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/AutoCloseable.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/IOException.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/image/BufferedImage.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/beans/ConstructorProperties.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/annotation/Target.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/annotation/ElementType.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/annotation/Retention.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/annotation/RetentionPolicy.class)]]
+[checking comboPanel]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/util/AbstractList.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/util/AbstractCollection.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/ComboBoxModel.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/util/Collection.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/Iterable.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/util/List.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/util/RandomAccess.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/Cloneable.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/PopupMenu.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/Color.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/BorderFactory.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/border/Border.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/BoxLayout.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/LayoutManager.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/LayoutManager2.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/Icon.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/Comparable.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/CharSequence.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/Exception.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/Throwable.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/Math.class)]]
+[checking DefaultMaterials]
+[checking DisplayDialog]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/AbstractButton.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/System.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/util/StringTokenizer.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/JScrollPane.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/Action.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/text/JTextComponent.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/PrintStream.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/FilterOutputStream.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/OutputStream.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/AWTEvent.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/util/EventObject.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/JList.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/ListModel.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/JOptionPane.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/Integer.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/Number.class)]]
+[checking simpleDialog]
+[checking DisplayMain]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/GraphicsConfiguration.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/BorderLayout.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/Double.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/JFrame.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/Frame.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/event/InputEvent.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/event/ComponentEvent.class)]]
+[checking groupPanel]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/border/TitledBorder.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/border/AbstractBorder.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/border/CompoundBorder.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/JToggleButton.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/GridLayout.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/FlowLayout.class)]]
+[checking scalePanel]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/text/Format.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/Font.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/event/ChangeListener.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/javax/swing/event/ChangeEvent.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/event/FocusListener.class)]]
+[checking MyObjectFile]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/util/AbstractMap.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/StringBuilder.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/StringBuffer.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/File.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/BufferedReader.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/FileReader.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/FileDescriptor.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/InputStreamReader.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/util/Iterator.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/util/Set.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/util/Map.class)]]
+[checking ObjectFileParser]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/NumberFormatException.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/IllegalArgumentException.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/RuntimeException.class)]]
+[checking ObjectFileMaterials]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/FileInputStream.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/io/StringReader.class)]]
+[checking ObjectFile]
+[checking RgbFile]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/Error.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/lang/InterruptedException.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/image/ComponentColorModel.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/image/WritableRaster.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/image/ColorModel.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/image/DataBufferByte.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/image/Raster.class)]]
+[loading ZipFileIndexFileObject[c:\java\jdk1.7.0_02\lib\ct.sym(META-INF/sym/rt.jar/java/awt/image/DataBuffer.class)]]
+[total 680ms]
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+100 errors

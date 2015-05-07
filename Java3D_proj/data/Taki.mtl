@@ -1,0 +1,430 @@
+# 
+# 
+newmtl Arm
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.730271 0.394776 0.677863
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\\Arm.tga
+map_Ns Texture\\arm_s.tga
+map_Ks Texture\\arm_s.tga
+map_Bump Texture\\arm_n.tga
+
+
+newmtl Armband
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.462567 0.361617 0.657517
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\\Armband.tga
+map_Ns Texture\\Armband_s.tga
+map_Ks Texture\\Armband_s.tga
+map_Bump Texture\\armband_n.tga
+
+
+newmtl BodyMesh
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.732024 0.591420 0.601613
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\\BodyMesh.tga
+map_Ns Texture\\BodyMesh_s.tga
+map_Ks Texture\\BodyMesh_s.tga
+map_Bump Texture\\bodymesh_n.tga
+
+
+newmtl Buttons
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.465288 0.799741 0.671540
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\\buttons.tga
+map_Ns Texture\\buttons_s.tga
+map_Ks Texture\\buttons_s.tga
+map_Bump Texture\\buttons_n.tga
+
+
+newmtl Cleaveguard
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.377665 0.724787 0.439903
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\\Cleaveguard.tga
+map_Ns Texture\\cleaveguard_s.tga
+map_Ks Texture\\cleaveguard_s.tga
+map_Bump Texture\\cleaveguard_n.tga
+
+
+newmtl Eyebrow
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.525608 0.638384 0.458152
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Texture\\Eyebrow.tga
+map_d Texture\\Eyebrow.tga
+
+
+newmtl Eyelash
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.744045 0.406840 0.413997
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Texture\\Eyebrow.tga
+map_d Texture\\Eyelash.tga
+
+
+newmtl Face
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.784622 0.508086 0.522454
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\\Face.tga
+map_Ns Texture\\Face_s.tga
+map_Ks Texture\\Face_s.tga
+map_Bump Texture\\face_n.tga
+
+
+newmtl Fingers
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.465269 0.645005 0.734824
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\\Fingers.tga
+map_Ns Texture\\fingers_s.tga
+map_Ks Texture\\fingers_s.tga
+map_Bump Texture\\Fingers_n.tga
+
+
+newmtl Glove
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.680228 0.672139 0.798459
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\\Glove.tga
+map_Ns Texture\\glove_s.tga
+map_Ks Texture\\glove_s.tga
+map_Bump Texture\\glove_n.tga
+
+
+newmtl Hair1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.452948 0.536155 0.668941
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_d Texture\\hair1.tga
+map_Kd Texture\\hair1.tga
+map_Ns Texture\\hair1_s.tga
+map_Ks Texture\\hair1_s.tga
+map_Bump Texture\\hair1_n.tga
+
+
+newmtl Hair2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.629123 0.709458 0.449730
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_d Texture\\hair2.tga
+map_Kd Texture\\hair2.tga
+map_Ns Texture\\hair2_s.tga
+map_Ks Texture\\hair2_s.tga
+map_Bump Texture\\hair2_n.tga
+
+
+newmtl Hair3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.750489 0.694801 0.761324
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_d Texture\\hair3.tga
+map_Kd Texture\\hair3.tga
+map_Ns Texture\\hair3_s.tga
+map_Ks Texture\\hair3_s.tga
+map_Bump Texture\\hair3_n.tga
+
+
+newmtl Hair4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.554586 0.607123 0.448719
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_d Texture\\hair4.tga
+map_Kd Texture\\hair4.tga
+map_Ns Texture\\hair4_s.tga
+map_Ks Texture\\hair4_s.tga
+map_Bump Texture\\hair4_n.tga
+
+
+newmtl Hair5
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.745524 0.509383 0.395952
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_d Texture\\hair5.tga
+map_Kd Texture\\hair5.tga
+map_Ns Texture\\hair5_s.tga
+map_Ks Texture\\hair5_s.tga
+map_Bump Texture\\hair5_n.tga
+
+
+newmtl Hair6
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.717369 0.572463 0.713333
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_d Texture\\hair6.tga
+map_Kd Texture\\hair6.tga
+map_Ns Texture\\hair6_s.tga
+map_Ks Texture\\hair6_s.tga
+map_Bump Texture\\hair6_n.tga
+
+
+newmtl Hair7
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602915 0.495523 0.646126
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_d Texture\\Hair7.tga
+map_Kd Texture\\Hair7.tga
+map_Ns Texture\\hair7_s.tga
+map_Ks Texture\\hair7_s.tga
+map_Bump Texture\\hair7_n.tga
+
+
+newmtl KneeGuard
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.363241 0.750834 0.693480
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\\KneeGuard.tga
+map_Ns Texture\\KneeGuard_s.tga
+map_Ks Texture\\KneeGuard_s.tga
+map_Bump Texture\\kneeguard_n.tga
+
+
+newmtl Lipgloss
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.510664 0.492225 0.719989
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+
+
+newmtl Mouth
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.690705 0.599339 0.716312
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\\Mouth.tga
+
+
+newmtl Sandel
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.406822 0.382432 0.484074
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\\Sandel.tga
+map_Ns Texture\\Sandel_s.tga
+map_Ks Texture\\Sandel_s.tga
+map_Bump Texture\\sandel_n.tga
+
+
+newmtl Shoulders
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.484548 0.443032 0.324275
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\\shoulders.tga
+map_Ns Texture\\shoulders_s.tga
+map_Ks Texture\\shoulders_s.tga
+map_Bump Texture\\shoulders_n.tga
+
+
+newmtl Silver
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.416571 0.747181 0.395112
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\\Silver.tga
+map_Bump Texture\\silver_n.tga
+
+
+newmtl Sock
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.645605 0.597558 0.765944
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\\Sock.tga
+map_Bump Texture\\sock_n.tga
+
+
+newmtl Suit
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.724852 0.631707 0.669788
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\\Suit.tga
+map_Ns Texture\\suit_s.tga
+map_Ks Texture\\suit_s.tga
+map_Bump Texture\\suit_n.tga
+
+
+newmtl Suit_strap
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.419855 0.742142 0.606138
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\\Suit_strap.tga
+map_Ns Texture\\suit_strap_s.tga
+map_Ks Texture\\suit_strap_s.tga
+map_Bump Texture\\Suit_strap_n.tga
+
+
+newmtl Teeth
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.669919 0.348127 0.685230
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture\\Teeth.tga
+map_Bump Texture\\Teeth_n.tga
+
+
+newmtl Wrist_Guards
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.333607 0.678253 0.541629
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture\\wrist_guards.tga
+map_Ns Texture\\wrist_guards_s.tga
+map_Ks Texture\\wrist_guards_s.tga
+map_Bump Texture\\wrist_guards_n.tga
+
+
+newmtl eyeball_l
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.474845 0.794924 0.759307
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Ns Texture\\eye_s.tga
+map_Ks Texture\\eye_s.tga
+map_Kd Texture\\eye.tga
+
+
+newmtl eyeball_r
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.474845 0.794924 0.759307
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Ns Texture\\eye_s.tga
+map_Ks Texture\\eye_s.tga
+map_Kd Texture\\eye.tga
+
+
+newmtl eyecrese
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.480521 0.696627 0.642378
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+
+
+newmtl eyefade
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.662765 0.439778 0.760545
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+
+

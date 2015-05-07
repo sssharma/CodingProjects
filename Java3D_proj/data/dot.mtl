@@ -1,0 +1,9 @@
+newmtl dot_mat
+
+
+# texture map filename
+map_Ka ./dot2.gif
+
+
+
+
