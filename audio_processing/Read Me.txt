@@ -1,0 +1,3 @@
+Contained are files (in Matlab) that process audio. 
+
+The compress.m file compresses the audio (using KBD window and mdct4 processing), resynthesize.m (which processes audio using inverse MDCT) uncompresses audio, and experiment.m which compresses audio given a ratio, and then uncompresses it.
